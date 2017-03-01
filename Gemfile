@@ -21,10 +21,10 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 
 # For haml syntax
-gem 'haml'
+#gem 'haml'
 
 # For creating haml files when performing scaffold
-gem 'haml-rails'
+#gem 'haml-rails'
 
 # Forms made easy
 gem 'simple_form'
@@ -57,6 +57,8 @@ gem 'will_paginate'
 
 # For authorization
 gem 'cancan'
+#Devise para control de usuarios
+gem 'devise'
 
 gem 'savon'
 
